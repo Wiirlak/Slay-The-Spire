@@ -15,5 +15,7 @@
   "AUTOMATON": "true",
   "GHOST_GUARDIAN": "true",
   "PERFECT": "true",
-  "THE_PACT": "true"
+  "THE_PACT": "true",
+  "POWERFUL": "true",
+  "IMPERVIOUS": "true"
 }
